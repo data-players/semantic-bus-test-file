@@ -1,0 +1,162 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.766357,
+          54.489187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ball",
+        "_umap_options": {
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.263184,
+          52.802761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Circle",
+        "_umap_options": {
+          "iconClass": "Circle",
+          "iconUrl": "/uploads/pictogram/airport-24.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.230225,
+          53.41608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Default"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.208252,
+          53.618579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Default + symbol",
+        "_umap_options": {
+          "iconUrl": "/uploads/pictogram/religious-christian-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.27417,
+          52.335339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Drop",
+        "_umap_options": {
+          "iconClass": "Drop"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.241211,
+          53.034607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": " Carshalton",
+        "ref     ": " CSH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.166395,
+          51.368592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": " Carshalton",
+        "ref     ": " CSH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.166395,
+          51.368592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.977539,
+          55.485079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Southwark cathedral",
+        "description": "This is description",
+        "denom": "Anglican",
+        "bells": "13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.065918,
+          51.508742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "test on click"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.126343,
+          50.814612
+        ]
+      }
+    }
+  ]
+}
