@@ -1,0 +1,38 @@
+[
+    {
+        "adresse": "Chem. de la Vaugoire",
+        "postal_code": 72310,
+        "city": "Bessé-sur-Braye",
+        "country": "France"
+    },
+    {
+        "adresse": "18 Rue de la Canardière",
+        "postal_code": 41360,
+        "city": "Savigny-sur-Braye",
+        "country": "France"
+    },
+    {
+        "adresse": "",
+        "postal_code": 72310,
+        "city": "Bessé-sur-Braye",
+        "country": "France"
+    },
+    {
+        "adresse": "18 Rue de la Canardière",
+        "postal_code": 41360,
+        "city": "",
+        "country": "France"
+    },
+    {
+        "adresse": "1 Av. de Vendôme",
+        "postal_code": 72120,
+        "city": "Saint-Calais",
+        "country": "France"
+    },
+    {
+        "adresse": "La Grange aux Prêtres",
+        "postal_code": 41360,
+        "city": "Lunay",
+        "country": "France"
+    }
+]
